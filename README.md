@@ -1,0 +1,2 @@
+# n8n-Send-weekly-AI-portfolio-reports-with-Google-Sheets-Gmail-and-Groq
+Automate weekly investment reports with this n8n workflow. Read client portfolio data from Google Sheets, calculate profit and growth, generate AI-powered portfolio summaries, email professional HTML reports via Gmail and update report status automatically. Perfect for financial advisors, portfolio managers and client reporting automation.
